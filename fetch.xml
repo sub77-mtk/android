@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+ <remote  name="sub"
+          fetch="ssh://git@github.com/sub77-mtk/" />
+ <remote  name="subcm"
+          fetch="http://github.com/CyanogenMod/" />
+ <remote  name="sphere"
+          fetch="ssh://git@git.sphere.ly/matisse" />
+ <remote  name="bb"
+          fetch="https://bitbucket.org" />
+<!--          
+  <project path=".repo/local_manifests" name="local_manifests" remote="sub" >
+    <copyfile src="envsetup.sh" dest="build/envsetup.sh" />
+    <copyfile src="colors" dest="build/colors" />
+  </project>
+-->  
+</manifest>
+

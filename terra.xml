@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <!-- Device -->
+  <project
+   name="android_device_terra_terrapad803"
+   path="device/terra/terrapad803"
+   remote="sub"
+   revision="cm-13.0"
+  />
+  <!-- Vendor -->
+  <project
+   name="android_vendor_terra_terrapad803"
+   path="vendor/terra/terrapad803"
+   remote="sub"
+   revision="cm-13.0"
+  />  
+</manifest>
